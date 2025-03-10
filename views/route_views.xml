@@ -1,0 +1,21 @@
+<odoo>
+    <record id="view_route_form" model="ir.ui.view">
+        <field name="name">custom.route.form</field>
+        <field name="model">custom.route</field>
+        <field name="arch" type="xml">
+            <form string="Маршрут">
+                <sheet>
+                    <group>
+                        <field name="carrier_id"/>
+                        <field name="vehicle_id"/>
+                    </group>
+                    <field name="order_ids" widget="many2many_tags"/>
+                    <group>
+                        <field name="total_weight" readonly="1"/>
+                        <field name="total_volume" readonly="1"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+</odoo>

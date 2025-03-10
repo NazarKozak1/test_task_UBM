@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "print(123)",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix",
+				"name": "print(123)"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "ЗНЕР"
+					},
+					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAMAAAAAAAAAAwAAAAAAAAACAAAA0KACAAAAAAAAAAIAAAAAAAAAAgAAANCVAQAAAAAAAAABAAAAAAAAAAIAAADQnQAAAAAAAAAAAAAAAAAAAAACAAAA0Jc",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "print"
+					},
+					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAAUAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "123"
+					},
+					"AwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"python ",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 248.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '9e6e85f902de1c5db32e6f246f58c0f89cfa8f1b9e078bb21916625a7d6344fc' + 'ef4138f53a58162b89749335a5beff6f171b8d94c0dd59dd65df8b626b6431fc'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); os.makedirs( ipp, exist_ok=True ); open(os.path.join(ipp, pf), 'wb').write(by)\n",
+			"print(\"asd\")",
+			"clear",
+			"cls",
+			"import urllib.request,os,hashlib; h = '9e6e85f902de1c5db32e6f246f58c0f89cfa8f1b9e078bb21916625a7d6344fc' + 'ef4138f53a58162b89749335a5beff6f171b8d94c0dd59dd65df8b626b6431fc'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); os.makedirs( ipp, exist_ok=True ); open(os.path.join(ipp, pf), 'wb').write(by)\nimport urllib.request,os,hashlib; h = '9e6e85f902de1c5db32e6f246f58c0f89cfa8f1b9e078bb21916625a7d6344fc' + 'ef4138f53a58162b89749335a5beff6f171b8d94c0dd59dd65df8b626b6431fc'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); os.makedirs( ipp, exist_ok=True ); open(os.path.join(ipp, pf), 'wb').write(by)\n",
+			"import urllib.request,os,hashlib; h = '9e6e85f902de1c5db32e6f246f58c0f89cfa8f1b9e078bb21916625a7d6344fc' + 'ef4138f53a58162b89749335a5beff6f171b8d94c0dd59dd65df8b626b6431fc'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); os.makedirs( ipp, exist_ok=True ); open(os.path.join(ipp, pf), 'wb').write(by)\nimport urllib.request,os,hashlib; h = '9e6e85f902de1c5db32e6f246f58c0f89cfa8f1b9e078bb21916625a7d6344fc' + 'ef4138f53a58162b89749335a5beff6f171b8d94c0dd59dd65df8b626b6431fc'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); os.makedirs( ipp, exist_ok=True ); open(os.path.join(ipp, pf), 'wb').write(by)\nimport urllib.request,os,hashlib; h = '9e6e85f902de1c5db32e6f246f58c0f89cfa8f1b9e078bb21916625a7d6344fc' + 'ef4138f53a58162b89749335a5beff6f171b8d94c0dd59dd65df8b626b6431fc'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); os.makedirs( ipp, exist_ok=True ); open(os.path.join(ipp, pf), 'wb').write(by)\n\nas"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/Nazar/.config/sublime-text/Packages/User/Python3.sublime-build",
+		"/home/Nazar/first.py",
+		"/home/Nazar/.config/sublime-text/Packages/User/Pyth.sublime-settings",
+		"/home/Nazar/.config/sublime-text/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"auto_name": "print(123)",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

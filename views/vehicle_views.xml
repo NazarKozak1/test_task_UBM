@@ -1,0 +1,18 @@
+<odoo>
+    <record id="view_vehicle_form" model="ir.ui.view">
+        <field name="name">custom.vehicle.form</field>
+        <field name="model">custom.vehicle</field>
+        <field name="arch" type="xml">
+            <form string="Автомобіль">
+                <sheet>
+                    <group>
+                        <field name="name"/>
+                        <field name="carrier_id"/>
+                        <field name="max_weight"/>
+                        <field name="max_volume"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+</odoo>

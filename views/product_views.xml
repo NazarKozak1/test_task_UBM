@@ -1,0 +1,13 @@
+<record id="view_product_form_inherit" model="ir.ui.view">
+    <field name="name">product.form.inherit</field>
+    <field name="model">product.product</field>
+    <field name="inherit_id" ref="product.product_form_view"/>
+    <field name="arch" type="xml">
+        <xpath expr="//group" position="inside">
+            <group>
+                <field name="weight"/>
+                <field name="volume"/>
+            </group>
+        </xpath>
+    </field>
+</record>
